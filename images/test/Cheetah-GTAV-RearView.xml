@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>Cheetah-GTAV-RearView.png</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/Cheetah-GTAV-RearView.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>118</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>13</ymin>
+			<xmax>196</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

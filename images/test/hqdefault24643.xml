@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>hqdefault24643.jpg</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/hqdefault24643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>181</ymin>
+			<xmax>300</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

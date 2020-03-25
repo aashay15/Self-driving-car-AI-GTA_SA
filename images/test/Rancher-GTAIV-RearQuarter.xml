@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>Rancher-GTAIV-RearQuarter.png</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/Rancher-GTAIV-RearQuarter.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>118</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>4</ymin>
+			<xmax>205</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>image_68597.jpg</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/image_68597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>176</ymin>
+			<xmax>719</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

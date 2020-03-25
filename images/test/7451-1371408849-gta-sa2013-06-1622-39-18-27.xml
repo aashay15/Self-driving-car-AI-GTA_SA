@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>7451-1371408849-gta-sa2013-06-1622-39-18-27.jpg</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/7451-1371408849-gta-sa2013-06-1622-39-18-27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1146</width>
+		<height>927</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>482</ymin>
+			<xmax>758</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

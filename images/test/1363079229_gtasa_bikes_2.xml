@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gta_images</folder>
+	<filename>1363079229_gtasa_bikes_2.jpg</filename>
+	<path>/Users/aashaysharma/Desktop/gta_images/1363079229_gtasa_bikes_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>909</width>
+		<height>724</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>147</ymin>
+			<xmax>480</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>
