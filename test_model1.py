@@ -6,8 +6,10 @@ import time
 from getkeys import key_check
 import os
 from model1 import multi1
+import keras
+import tensorflow as tf
 
-MODEL_NAME ="Multi Layer Perceptron 1"
+#MODEL_NAME ="Multi Layer Perceptron 1"
 
 inputKeys = [W, A, S, D, SPACE]
 
@@ -15,8 +17,9 @@ inputKeys = [W, A, S, D, SPACE]
 RLControlPoint = (320, 360)
 FWControlPoint = (320, 340)
 
-model = multi1()
-model.load(MODEL_NAME)
+#model = multi1()
+model = tf.keras.models.load_model('keras_model_test.model')
+#model.load(MODEL_NAME)
 
 # returns distance between control point and first white pixel is detects
 def check(edgeImage, point, direction):
